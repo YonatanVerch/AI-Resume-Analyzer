@@ -42,3 +42,8 @@ Built to showcase strong skills in:
 ```bash
 git clone https://github.com/YOUR_USERNAME/ai-resume-analyzer.git
 cd ai-resume-analyzer
+
+🙏 Special Thanks
+A huge thanks to Tech With Tim for the original tutorial! 👏
+
+
