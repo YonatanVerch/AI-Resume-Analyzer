@@ -46,12 +46,3 @@ A huge thanks to [Tech With Tim](https://www.youtube.com/c/TechWithTim) for the 
 ```bash
 git clone https://github.com/YOUR_USERNAME/ai-resume-analyzer.git
 cd ai-resume-analyzer
-
-
-
-
-
-
-
-
-
