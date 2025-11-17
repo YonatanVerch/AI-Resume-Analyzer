@@ -51,3 +51,4 @@ cd ai-resume-analyzer
 
 ### Sample Analysis Result
 [![Sample Result](images/2_results.png)](images/2_results.png)
+
