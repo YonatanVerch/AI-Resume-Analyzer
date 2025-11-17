@@ -47,11 +47,7 @@ cd ai-resume-analyzer
 ## Screenshots
 
 ### Home Screen
-<p align="center">
-  <img src="images/1_home.png" alt="AI Resume Analyzer Home Screen" width="700">
-</p>
+[![Home Screen](images/1_home.png)](images/1_home.png)
 
 ### Sample Analysis Result
-<p align="center">
-  <img src="images/2_results.png" alt="AI Resume Analyzer Sample Result" width="700">
-</p>
+[![Sample Result](images/2_results.png)](images/2_results.png)
