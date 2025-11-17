@@ -42,13 +42,3 @@ Built to showcase strong skills in:
 ```bash
 git clone https://github.com/YOUR_USERNAME/ai-resume-analyzer.git
 cd ai-resume-analyzer
-
-
-## Screenshots
-
-### Home Screen
-[![Home Screen](images/1_home.png)](images/1_home.png)
-
-### Sample Analysis Result
-[![Sample Result](images/2_results.png)](images/2_results.png)
-
