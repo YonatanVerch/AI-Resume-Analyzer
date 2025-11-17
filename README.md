@@ -36,6 +36,10 @@ Built to showcase strong skills in:
 
 ---
 
+# 🙏 Special Thanks
+
+A huge thanks to [Tech With Tim](https://www.youtube.com/c/TechWithTim) for the original tutorial! 👏
+
 ## 📦 Installation & Setup
 
 ### 1. Clone the repository
@@ -43,7 +47,11 @@ Built to showcase strong skills in:
 git clone https://github.com/YOUR_USERNAME/ai-resume-analyzer.git
 cd ai-resume-analyzer
 
-🙏 Special Thanks
-A huge thanks to Tech With Tim for the original tutorial! 👏
+
+
+
+
+
+
 
 
