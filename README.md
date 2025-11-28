@@ -12,22 +12,16 @@ Built to showcase strong skills in:
 - Environment variable management
 ---
 
-Screenshots:
+## Screenshots
 
-Home Screen
+### Home Screen
+![Home](./images/home.PNG)
 
-![Home Page](./images/home.png)
+### Resume Upload & Results
+![Results](./images/results.PNG)
 
-
-Resume Upload & Results
-
-![Results Page](./images/results.png)
-
-
-Feedback Section
-
-![Feedback Section](./images/feedback.png)
-
+### Feedback Section
+![Feedback](./images/Feedback.PNG)
 
 ---
 
@@ -64,4 +58,5 @@ A huge thanks to [Tech With Tim](https://www.youtube.com/c/TechWithTim) for the 
 ```bash
 git clone https://github.com/YOUR_USERNAME/ai-resume-analyzer.git
 cd ai-resume-analyzer
+
 
